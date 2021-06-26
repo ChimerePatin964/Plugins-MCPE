@@ -1,0 +1,31 @@
+#________                                    
+#\______ \____________ __  _  __ ___________ 
+# |    |  \_  __ \__  \\ \/ \/ // __ \_  __ \
+# |    `   \  | \// __ \\     /\  ___/|  | \/
+#/_______  /__|  (____  /\/\_/  \___  >__|   
+#        \/           \/            \/       
+        
+#Ce programme est un plugin privée vous ne pouvez pas le redistribuer ou le modifier sans l'accord de son créateur.
+#Ce plugin a été fait initialement par ChimerePatin964 pour le serveur SurvivalsDays
+
+#Si vous mettez sur true cette case cela allumera le plugin au contraire si vous la mettez sur false cela l'empechera de fonctionner
+enabled: true
+
+#Ici vous pouvez configurer sur quelle block sera le drawer
+Block: "216:0"
+
+#Commande /id (permett aux joueur de savoir l'id de l'item qu'ils ont dans la main pour pouvoir l'ajouter a un des drawers)
+#Mettez false si vous voulez supprimer cette comande (un message d'erreur sera affiché)
+ID: true
+
+#Taille du drawer :
+Taille: 2480
+
+#Ici vous pouvez rentrer unitem/block qui ne pourrat etre stocker dans les drawers
+Item: "7:0"
+
+#Activer l'option qui permet de remplire le drawer en faisant shift click
+Shift: true
+
+
+
