@@ -1,0 +1,6 @@
+name: TheAdder
+version: 1.0
+author: ChimerePatin964
+api: 3.0.0
+main: ChimerePatin964\TheAdder\Main
+
