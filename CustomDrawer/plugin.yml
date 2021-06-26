@@ -1,9 +1,0 @@
-name: CustomDrawer
-version: 1.0
-author: ChimerePatin964
-api: 3.0.0
-main: ChimerePatin964\CustomDrawer\Main
-commands:
-  id:
-    usage: "/id"
-    description: "Vous donne l'id de l'item dans votre main (utile pour les drawers)"
